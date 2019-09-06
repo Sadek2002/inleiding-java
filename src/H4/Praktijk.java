@@ -11,6 +11,9 @@ public class Praktijk extends Applet {
     public void paint(Graphics g) {
         setBackground(Color.white);
         g.setColor(Color.black);
-        g.drawLine(50, 120, 270, 120);
+        g.drawLine(10, 20, 260, 20);
+        g.drawString("Lijn", 125, 40);
+        g.drawRect(10, 50, 260, 130);
+        g.drawString("Rechthoek", 105, 200);
     }
 }
