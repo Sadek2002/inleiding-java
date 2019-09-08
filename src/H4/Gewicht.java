@@ -1,6 +1,4 @@
-//Voorbeeld 4.1
 
-import javax.imageio.stream.ImageInputStream;
 import java.awt.*;
 import java.applet.*;
 
