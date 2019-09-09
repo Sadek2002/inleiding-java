@@ -44,11 +44,5 @@ public class Staafdiagram_2 extends Applet {
         g.drawString("60",20,290);
         g.drawString("80",20,270);
         g.drawString("100",20,250);
-        g.drawString("120",20,230);
-        g.drawString("140",20,210);
-        g.drawString("160",20,190);
-        g.drawString("180",20,170);
-        g.drawString("200",20,150);
-
     }
 }
