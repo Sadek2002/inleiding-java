@@ -16,7 +16,7 @@ public class Tijd extends Applet {
         jaar = 525600;
         uitkomst = (uur * seconden);
         uitkomst2 = (dag * seconden);
-        uitkomst3 = (jaar * seconden);
+        uitkomst3 = jaar * seconden;
     }
 
     public void paint(Graphics g) {
