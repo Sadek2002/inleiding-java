@@ -6,12 +6,12 @@ package H10;
         import java.awt.event.ActionListener;
 
         public class Schrikkeljaar extends Applet {
-        TextField tekstvak;
-        TextField tekstvak1;
-        Label maandlabel;
-        Label jaarlabel;
-        String s, tekst;
-        String d, tekst1;
+                TextField tekstvak;
+                TextField tekstvak1;
+                Label maandlabel;
+                Label jaarlabel;
+                String s, tekst;
+                String d, tekst1;
         Button ok;
         int dag;
         private int jaartal;
