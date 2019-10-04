@@ -40,8 +40,4 @@ public class Tekstvakken extends Applet {
 
         }
     }
-
-
 }
-
-© 2019 GitHub, Inc.

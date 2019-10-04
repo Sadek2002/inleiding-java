@@ -55,4 +55,3 @@ public class Waarde extends Applet
         g.drawString(message,20,50);
     }
 }
-© 2019 GitHub, Inc.
